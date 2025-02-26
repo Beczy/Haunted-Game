@@ -1,0 +1,49 @@
+body {
+  text-align: center;
+  background-image: url(mansion.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: black;
+}
+
+#start-button {
+  font-family: 'By the way', sans-serif;
+  font-size: 100px;
+  margin-top: 320px;
+  border: none;
+  background-color: black;
+  padding: 10px 20px;
+  border-radius: 80px;
+  color: white;
+  cursor: pointer;
+} 
+
+#beginLine {
+  font-family: 'By the way', sans-serif;
+  color: white;
+  margin-top: 320px;
+  font-size: 50px;
+}
+#beginingLine {
+  font-family: 'By the way', sans-serif;
+  color: white;
+  margin-top: 300px;
+  font-size: 25px;
+}
+
+#firstButtons {
+  font-family: 'By the way', sans-serif;
+  font-size: 20px;
+  border: none;
+  background-color: black;
+  padding: 10px 20px;
+  border-radius: 80px;
+  color: white;
+  cursor: pointer;
+}
+
+#game-message {
+  font-family: 'By the way', sans-serif;
+  color: white;
+  font-size: 18px;
+}
